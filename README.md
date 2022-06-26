@@ -1,5 +1,5 @@
-# kaggle-churn-prediction
-Kaggle Bank Churn Prediction Challenge
+# Churn Prediction
+
 <div align=center>
 <h1>BANK CUSTOMER CHURN</h1>
 <h2>Exploratory Data Analysis & Prediction Study</h2>
